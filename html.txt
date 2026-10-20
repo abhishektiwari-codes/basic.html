@@ -1,0 +1,15 @@
+<html>
+<head>
+</head>
+<body>
+<label> city </label>
+<select>
+<option> pune</option>
+<option> Mumbia </option>
+<option> bhopal </option>
+<option> Jaipur </option>
+</select>
+
+</body>
+
+</html>
